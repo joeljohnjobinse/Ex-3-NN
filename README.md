@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: JOEL JOHN JOBINSE</H3>
 <H3>ENTER YOUR REGISTER NO.: 212223240062</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE: 26/09/2025</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
